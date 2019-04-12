@@ -101,5 +101,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-database.ini
+database\.ini
 dataset/
