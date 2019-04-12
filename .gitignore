@@ -52,9 +52,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
-local_settings.py
-db.sqlite3
+*.log local_settings.py db.sqlite3
 
 # Flask stuff:
 instance/
@@ -103,4 +101,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-database\.ini
+database.ini
+dataset/
